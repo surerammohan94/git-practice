@@ -2,6 +2,3 @@
 welcome
 abcd
 hello
-who
-where
-when
